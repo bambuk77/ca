@@ -1,0 +1,3 @@
+[1205/141049.047:ERROR:crashpad_client_win.cc(491)] CreateProcess: Отказано в доступе. (0x5)
+[1205/141050.153:ERROR:crashpad_client_win.cc(491)] CreateProcess: Отказано в доступе. (0x5)
+[1205/141050.580:ERROR:crashpad_client_win.cc(491)] CreateProcess: Отказано в доступе. (0x5)

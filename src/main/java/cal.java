@@ -30,7 +30,7 @@ public class cal {
                 System.out.printf("%.4f", i / y);
                 break;
             default:
-                System.out.print("Error");
+                System.out.print("Error+");
 
         }
     }
